@@ -1,2 +1,2 @@
 # datascience
-for learning
+coursera
